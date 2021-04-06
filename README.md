@@ -12,7 +12,6 @@
   - 🌱 I’m currently learning React Native and the art of fermenting kombucha!
   - 👯 I’m looking to collaborate on any project that has an impact on this little rock we call Earth.
   - 💬 Ask me about docker, networks and typescript
-  - ⚡ Fun fact: ...
 
   ### My domain
 
