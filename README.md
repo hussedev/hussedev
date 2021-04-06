@@ -13,7 +13,6 @@
   - 👯 I’m looking to collaborate on any project that has an impact on this little rock we call Earth.
   - 💬 Ask me about docker, networks and typescript
 
-  ### My domain
 
 <img height="40" alt="Javascript" src="./assets/javascript.svg">  <img height="40" alt="Typescript" src="./assets/typescript-icon.svg">  <img height="40" alt="Python" src="./assets/Python.svg"><img height="40" alt="C" src="./assets/c.svg"><img height="40" alt="C++" src="./assets/c++.svg"><img height="40" alt="Bash" src="./assets/Bash.svg">
   
