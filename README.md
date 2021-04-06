@@ -15,4 +15,12 @@
 
   ### My domain
 
-  <code><img height="40" alt="Javascript" src="./assets/javascript.svg"></code><code><img height="40" alt="Typescript" src="./assets/typescript-icon.svg"></code><code><img height="40" alt="HTML5" src="./assets/HTML5.svg"></code><code><img height="40" alt="CSS" src="./assets/CSS3.svg"></code><code><img height="40" alt="React" src="./assets/React.svg"></code><code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code><code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+  <code><img height="40" alt="Javascript" src="./assets/javascript.svg"></code><code><img height="40" alt="Typescript" src="./assets/typescript-icon.svg"></code><code><img height="40" alt="Python" src="./assets/Python.svg"></code><code><img height="40" alt="C" src="./assets/c.svg"></code><code><img height="40" alt="C++" src="./assets/c++.svg"></code><code><img height="40" alt="Bash" src="./assets/Bash.svg"></code>
+  
+  <code><img height="40" alt="HTML5" src="./assets/HTML5.svg"></code><code><img height="40" alt="CSS" src="./assets/CSS3.svg"></code><code><img height="40" alt="Sass" src="./assets/sass.svg"></code><code><img height="40" alt="Eslint" src="./assets/eslint.svg"></code>
+  
+  <code><img height="40" alt="PostgreSQL" src="./assets/postgresql.svg"></code><code><img height="40" alt="MongoDB" src="./assets/mongodb.svg"></code><code><img height="40" alt="GraphQL" src="./assets/GraphQL.svg"></code>
+  
+  <code><img height="40" alt="ExpressJS" src="./assets/express.svg"></code>  <code><img height="40" alt="Koa" src="./assets/koa.svg"></code>
+  
+  <code><img height="40" alt="Windows" src="./assets/windows.svg"></code><code><img height="40" alt="MacOS" src="./assets/osx.svg"></code><code><img height="40" alt="Debian" src="./assets/debian.svg"></code><code><img height="40" alt="CentOS" src="./assets/centos.svg"></code>
