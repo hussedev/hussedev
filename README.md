@@ -15,12 +15,12 @@
 
   ### My domain
 
-  > <img height="40" alt="Javascript" src="./assets/javascript.svg"><img height="40" alt="Typescript" src="./assets/typescript-icon.svg"><img height="40" alt="Python" src="./assets/Python.svg"><img height="40" alt="C" src="./assets/c.svg"><img height="40" alt="C++" src="./assets/c++.svg"><img height="40" alt="Bash" src="./assets/Bash.svg">
+<img height="40" alt="Javascript" src="./assets/javascript.svg">  <img height="40" alt="Typescript" src="./assets/typescript-icon.svg">  <img height="40" alt="Python" src="./assets/Python.svg"><img height="40" alt="C" src="./assets/c.svg"><img height="40" alt="C++" src="./assets/c++.svg"><img height="40" alt="Bash" src="./assets/Bash.svg">
   
-  <img height="40" alt="HTML5" src="./assets/HTML5.svg"><img height="40" alt="CSS" src="./assets/CSS3.svg"><img height="40" alt="Sass" src="./assets/sass.svg"><img height="40" alt="Eslint" src="./assets/eslint.svg">
+<img height="40" alt="HTML5" src="./assets/HTML5.svg"><img height="40" alt="CSS" src="./assets/CSS3.svg"><img height="40" alt="Sass" src="./assets/sass.svg"><img height="40" alt="Eslint" src="./assets/eslint.svg">
   
-  <img height="40" alt="PostgreSQL" src="./assets/postgresql.svg"><img height="40" alt="MongoDB" src="./assets/mongodb.svg"><img height="40" alt="GraphQL" src="./assets/GraphQL.svg">
+<img height="40" alt="PostgreSQL" src="./assets/postgresql.svg"><img height="40" alt="MongoDB" src="./assets/mongodb.svg"><img height="40" alt="GraphQL" src="./assets/GraphQL.svg">
   
-  <img height="40" alt="ExpressJS" src="./assets/express.svg">  <img height="40" alt="Koa" src="./assets/koa.svg">
+<img height="40" alt="ExpressJS" src="./assets/express.svg">  <img height="40" alt="Koa" src="./assets/koa.svg">
   
-  <img height="40" alt="Windows" src="./assets/windows.svg"><img height="40" alt="MacOS" src="./assets/osx.svg"><img height="40" alt="Debian" src="./assets/debian.svg"><img height="40" alt="CentOS" src="./assets/centos.svg">
+<img height="40" alt="Windows" src="./assets/windows.svg"><img height="40" alt="MacOS" src="./assets/osx.svg"><img height="40" alt="Debian" src="./assets/debian.svg"><img height="40" alt="CentOS" src="./assets/centos.svg">
