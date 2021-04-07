@@ -53,7 +53,7 @@
 </p>
   
 #### Other
-<p><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></p>
+<p><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-00979D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
