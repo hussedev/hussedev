@@ -24,13 +24,16 @@
   <img alt="C" src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=C&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></p>
 
-#### Front-end frameworks
+#### Front-end
 <p><img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=for-the-badge">
-  <img alt="Next.JS" src="https://img.shields.io/badge/Next.js-33333d?style=for-the-badge&logo=next.js&logoColor=white" /></p>
+  <img alt="Next.JS" src="https://img.shields.io/badge/Next.js-33333d?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
 #### Back-end
-<p><img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<p><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Koa" src="https://img.shields.io/badge/Koa-33333d?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -47,17 +50,11 @@
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8a4182?style=for-the-badge&logo=jasmine&logoColor=white" />
-
 </p>
-
   
-#### Tech
-
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-
+#### Other
+<p><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-00979D?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-00979D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 </p>
