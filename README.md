@@ -1,4 +1,4 @@
-- ### Hallo 🖖!! It's Huss, full-stack developer from Alicante (located in Barcelona)
+### Hallo 🖖!! It's Huss, a full-stack developer
 
   I'm a full-stack developer, with more than 10 years experience in the tech world, specialized in JavaScript and React, and strong foundations in networking, C, Shell Scripting and Python
 
