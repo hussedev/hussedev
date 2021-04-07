@@ -64,3 +64,11 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-3c5280?style=for-the-badge&logo=eclipse%20mosquitto&logoColor=white" />
 </p>
+
+#### OSes
+<p><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white" />  
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />  
+  <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfSense&logoColor=white" />
+</p>
