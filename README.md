@@ -17,7 +17,7 @@
 
 ### My toolchain
 
-#### Languages
+#### Programming Languages
 <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,10 +29,12 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=for-the-badge">
   <img alt="Next.JS" src="https://img.shields.io/badge/Next.js-33333d?style=for-the-badge&logo=next.js&logoColor=white" /></p>
 
-#### Back-end frameworks
+#### Back-end
 <p><img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Koa" src="https://img.shields.io/badge/Koa-33333d?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white" /></p>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
 #### DB
 <p><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -42,7 +44,7 @@
   
 #### Testing
 <p><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cyprdess-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8a4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 
@@ -54,8 +56,8 @@
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-00979D?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
