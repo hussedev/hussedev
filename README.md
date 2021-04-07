@@ -46,6 +46,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-4E629A?style=for-the-badge&logo=mariadb&logoColor=white" /></p>
+  <img alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-22adf6?style=for-the-badge&logo=influxdb&logoColor=white" /></p>
   
 #### Testing
 <p><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -53,10 +54,13 @@
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8a4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 </p>
-  
+
 #### Other
 <p><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />  
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-00979D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-3c5280?style=for-the-badge&logo=eclipse%20mosquitto&logoColor=white" />
 </p>
